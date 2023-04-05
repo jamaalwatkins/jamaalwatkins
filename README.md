@@ -15,8 +15,12 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Certifications</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>📄 Certifications</h2> 
+  
+  - CompTIA Security+ (In Progress)
+  - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/887a031e-c4a5-4b71-bc30-e3b5184989c3/public_url)
+  - Qualys Certified Specialist
+  - Salesforce Certified Associate
 
 <h2>📺 Popular YouTube Videos</h2>
 
