@@ -5,10 +5,10 @@
 - <b>Azure Sentinel Map with LIVE CYBER ATTACKS</b>
     - <b>PowerShell</b>
         - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jamaalwatkins/SentinelFailedRDPLab)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
+-<b>[Active Directory Bulk User Creation]</b>   
+    - <b>PowerShell</b>
 - <b>PowerShell</b>
-  - 
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
