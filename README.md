@@ -6,7 +6,7 @@
     - <b>PowerShell</b>
         - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jamaalwatkins/SentinelFailedRDPLab)
 
--<b>[Active Directory Bulk User Creation]</b>   
+- <b>[Active Directory Bulk User Creation](https://github.com/jamaalwatkins/Active-Directory-Bulk-User-Creation)
     - <b>PowerShell</b>
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
