@@ -2,14 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure Sentinel Map with LIVE CYBER ATTACKS</b>
-    - <b>PowerShell</b>
-        - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jamaalwatkins/SentinelFailedRDPLab)
+ - <b>PowerShell</b>
+    -
+- <b>[Azure Sentinel Map with LIVE CYBER ATTACKS Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jamaalwatkins/SentinelFailedRDPLab)
 
 - <b>[Active Directory Bulk User Creation](https://github.com/jamaalwatkins/Active-Directory-Bulk-User-Creation)
-    - <b>PowerShell</b>
-- <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+    
+- <b>Vulnerability Management</b>
+    -
+- [Nessus Scan and Remediation](https://github.com/jamaalwatkins/Nessus-Vulnerability-Scan-Remediation-)
 
 <h2>📄 Certifications</h2> 
   
